@@ -21,5 +21,5 @@ src                             - app source code
 Project setup and run
 -------------
 
-⋅⋅* `npm install` to install dependencies
-⋅⋅* `npm run start:dev` to run development server with hot reloading on port 9100
+* `npm install` to install dependencies
+* `npm run start:dev` to run development server with hot reloading on port 9100
